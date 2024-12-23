@@ -83,8 +83,8 @@ marketing-dashboard/
 
 ## Documentation
 
-- [Implementation Flowchart](/flowchart.png)
-- [Data Dictionary](/Marketer.pdf)
+- [Implementation Flowchart](https://github.com/HarshDekate/Marketing-Dashboard-Project/blob/main/Flowchart.png)
+- [Dashboard](https://github.com/HarshDekate/Marketing-Dashboard-Project/blob/main/Marketer.pdf)
 
 ## Results and Impact
 

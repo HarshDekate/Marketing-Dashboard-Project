@@ -75,7 +75,7 @@ Revenue Growth =
 ## Project Structure
 
 ```
-marketing-dashboard/
+Marketing-Dashboard-Project/
 ├── ├── Marketer.pdf
     ├── flowchart.png
     └── Marketer.pbix
@@ -112,6 +112,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Project Maintainer - [your-email@domain.com](mailto:harshdekate9847@gmail.com)
+Project Maintainer - [harshdekate9847@gmail.com](mailto:harshdekate9847@gmail.com)
 
 Project Link: [https://github.com/your-username/marketing-dashboard](https://github.com/HarshDekate/Marketing-Dashboard-Project)

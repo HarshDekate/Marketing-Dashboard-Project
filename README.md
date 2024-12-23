@@ -6,7 +6,8 @@ A comprehensive Power BI dashboard for analyzing marketing performance metrics a
 
 This Marketing Dashboard provides real-time visualization of key marketing metrics, enabling data-driven decision-making through interactive analytics. Built with Power BI, it offers detailed insights into revenue patterns, campaign performance, and regional analysis.
 
-[View Live Demo](https://marketer-dashboard.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/View%20Live%20Demo-daf512)](https://marketer-dashboard.netlify.app/)
+
 
 ## Features
 
